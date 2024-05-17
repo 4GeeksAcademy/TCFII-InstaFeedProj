@@ -2,3 +2,19 @@ div {
     border-color: red;
     border-style:dotted
 }
+h1 {
+    margin-left: 25%;
+}
+.phhdr {
+    display:flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.photopost {
+    width:400px;
+    margin-left: 25%;
+    Margin-right: 25%;
+}
+.phftr {
+    font-size: small;
+}
